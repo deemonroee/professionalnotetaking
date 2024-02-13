@@ -5,7 +5,7 @@
   "devDependencies": {
     "nodemon": "^3.0.3"
   },
-  "name": "professionalnotetaking",
+  "name": "note-taker",
   "description": "being able to write and take notes to keep track of tasks and lists",
   "version": "1.0.0",
   "main": "index.js",
